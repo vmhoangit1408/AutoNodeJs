@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myfirstmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "firebase": "^7.5.0",
+    "firebase-admin": "^8.8.0",
+    "googleapis": "^45.0.0",
+    "request": "^2.88.0",
+    "youtube-v3-api": "^1.1.1"
+  }
+}
