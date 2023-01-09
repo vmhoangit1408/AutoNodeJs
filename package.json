@@ -14,7 +14,7 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "firebase": "^7.5.0",
-    "firebase-admin": "^8.8.0",
+    "firebase-admin": "^11.4.1",
     "googleapis": "^45.0.0",
     "request": "^2.88.0",
     "youtube-v3-api": "^1.1.1"
